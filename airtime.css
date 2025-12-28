@@ -1,0 +1,26 @@
+body {
+    background-image: url(celebrate.gif);
+}
+.congrats {
+    background-color: antiquewhite;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    border-radius: 20px;
+}
+.head {
+    background-color: antiquewhite;
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+}
+.airtel-logo, .mtn-logo {
+    max-height: 120px;
+    max-width: 120px;
+    border-radius: 100px;
+}
+.parent {
+    display: grid;
+    margin-left: 500px;
+    margin-right: 300px;
+}
